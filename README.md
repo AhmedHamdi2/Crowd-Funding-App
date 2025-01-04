@@ -1,1 +1,2 @@
 # Crowd-Funding-App
+Crowdfunding is the practice of funding a project or venture by raising small amounts of money from a large number of people, typically via the Internet. Crowdfunding is a form of crowdsourcing and alternative finance. Crowd-Funding Console App is a Python-based project designed to help users create, view, manage, and search for fundraising campaigns. This project utilizes modular design principles and includes features for user authentication and project management.
